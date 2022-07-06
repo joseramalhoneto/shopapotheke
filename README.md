@@ -4,7 +4,7 @@
 
 After start the SpringBoot application and tomcat server, the APIs will be ready to use.
 
-Below are examples of endpoints to be tested:
+Below are some examples of endpoints to be tested:
 
 http://localhost:8080/repository/find/all
 
